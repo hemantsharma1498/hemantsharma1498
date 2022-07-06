@@ -72,6 +72,57 @@ Experienced in
   </div>
 
 <div>
+  <h2>
+    Previous Projects
+    </h2>
+   <div>
+     <a href="https://github.com/hemantsharma1498/Heartbeat-Monitor/">Heartbeat-Monitor</a>
+     <br>
+     <p>
+       A NodeJS app created without any depedencies:
+       <ul>
+         <li>
+           Learnt the underlying aspects of web frameworkers of a web app by writing routers and handlers.
+           </li>
+         <li>
+           Wrote a save-to-disk service to act in place of a Database like MongoDB.
+           </li>
+         <li>
+           Wrote a logger to save production stats and a CLI for administrative purposes.
+           </li>        
+         </ul>
+       </p>
+    
+  </div>
+  
+   
+   <div>
+   <a href="https://github.com/hemantsharma1498/Social-Web-App">Social Web App</a>
+   <br>
+       <p>
+     A backend Social Web App project (with basic front-end) created using ExpressJS, MongoDB and HTML, CSS via EJS:
+     <ul>
+       <li>
+         Learnt the structure and internal interactions of an end-to-end web app.
+         </li>
+       <li>
+         Used PassportJS for user authentication and Google-OAuth2 for third party authentication.
+         </li>
+       <li>
+         Wrote functionality for a chat server using Socket.io.
+         </li>    
+       <li>
+         Deployed app on AWS EC2.
+         </li>        
+       </ul>
+     </p>
+   </div>
+  
+</div>
+
+
+
+<div>
 <h2>
 Email me:  
   </h2>
@@ -97,11 +148,4 @@ Socials
   
  </p> 
 </div>
-
-
-
-
-
-
-
 
