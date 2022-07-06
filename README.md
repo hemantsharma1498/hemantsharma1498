@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 <!--
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 I'm a budding Software Engineer/Backend Developer.
 
 
+
+###Experienced in
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
@@ -42,9 +44,17 @@ I'm a budding Software Engineer/Backend Developer.
 
 </p>
 
+##Email me:
+###hemantsharma1498@gmail.com
 
 
+##Socials
+<p>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/hemantsharma14/)
 
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/hemantsharma1498/)
+  
+  
+ </p> 
+
 
