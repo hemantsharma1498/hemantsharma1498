@@ -20,6 +20,15 @@ Here are some ideas to get you started:
 I'm a budding Software Engineer/Backend Developer.
 
 
+<p>
+<img src="https://img.shields.io/badge/-NodeJs-61DAFB?logo=node">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+</p>
+
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://https://www.linkedin.com/in/hemantsharma14/)
