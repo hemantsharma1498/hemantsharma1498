@@ -21,7 +21,7 @@ I'm a budding Software Engineer/Backend Developer.
 
 
 
-###Experienced in
+Experienced in
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
@@ -44,17 +44,64 @@ I'm a budding Software Engineer/Backend Developer.
 
 </p>
 
-##Email me:
-###hemantsharma1498@gmail.com
 
 
-##Socials
+<div>
+  <h2>
+    Ongoing Project
+    </h2>
+  <p>
+    A scalable Image hosting website, similar to  Imgur and Flickr.
+    Currently working on enhancing NodeJS performance via:
+    <ul>
+      <li>
+        Blocking of event loop where necessary.
+        </li>
+      <li>
+        Clustering.
+        </li>
+      <li>
+        Benchmarking server performance and refactoring.
+        </li>
+      <li>
+        Using webworker threads via PM2.
+        </li>
+      </ul>
+  </p>
+  
+  </div>
+
+<div>
+<h2>
+Email me:  
+  </h2>
 <p>
+hemantsharma1498@gmail.com
+</p>
+
+</div>
+
+<div>
+  <h2>
+Socials  
+  </h2>
+  
+  <p>
+
+        
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/hemantsharma14/)
 
 [![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/hemantsharma1498/)
+
   
   
  </p> 
+</div>
+
+
+
+
+
+
 
 
