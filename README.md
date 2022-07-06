@@ -109,7 +109,7 @@ Experienced in
          Used PassportJS for user authentication and Google-OAuth2 for third party authentication.
          </li>
        <li>
-         Wrote functionality for a chat server using Socket.io.
+         Learnt about persistent HTTP connections and sockets while writing functionality for a chat server using Socket.io.
          </li>    
        <li>
          Deployed app on AWS EC2.
