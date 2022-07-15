@@ -58,13 +58,13 @@ Experienced in
         Blocking of event loop where necessary.
         </li>
       <li>
-        Clustering.
+        Clustering and learning to monitor cluster health using PM2.
         </li>
       <li>
         Benchmarking server performance and refactoring.
         </li>
       <li>
-        Using webworker threads via PM2.
+        Using worker threads.
         </li>
       </ul>
   </p>
