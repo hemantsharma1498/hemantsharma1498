@@ -51,10 +51,10 @@ Experienced in
     Ongoing Project
     </h2>
   <p>
-    A scalable Image hosting website, similar to  Imgur and Flickr.
+    A scalable Image hosting website, similar to  Imgur and Flickr. <br>
     Currently working on enhancing MongoDB query performance by creating a query cacheing layer, using Redis.
     
-   <---
+   <!---
     <ul>
       <li>
         Creating a query cacheing layer.
@@ -124,6 +124,13 @@ Experienced in
   
 </div>
 
+<div>
+  <p>
+  <a href="https://github.com/hemantsharma1498/NodePerformance">This</a> is a little test regarding the improvement of concurrent requests sent to a NodeJS server through clustering and improvement of server performance in case of existence of blocking code by implimenting worker threads.
+  </p>
+  
+  
+  </div>
 
 
 <div>
