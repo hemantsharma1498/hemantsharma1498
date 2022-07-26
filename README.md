@@ -52,7 +52,7 @@ Experienced in
     </h2>
   <p>
     A scalable Image hosting website, similar to  Imgur and Flickr. <br>
-    Currently working on enhancing MongoDB query performance by creating a query cacheing layer, using Redis.
+    Currently working on Automated Headless Browser Testing using Puppeteer and Jest.
     
    <!---
     <ul>
