@@ -52,7 +52,7 @@ Experienced in
     </h2>
   <p>
     A scalable Image hosting website, similar to  Imgur and Flickr. <br>
-    Currently working on Continuous Integration using Travis CI.
+    Currently working building a scalable image upload facility to the blogging service.
     
    <!---
     <ul>
