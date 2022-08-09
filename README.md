@@ -82,10 +82,10 @@ Experienced in
   
    
    <div>
-   <a href="https://github.com/hemantsharma1498/Social-Web-App">Social Web App</a>
+   <a href="https://github.com/hemantsharma1498/Social-Web-App">Imagology</a>
    <br>
        <p>
-     A backend Social Web App project (with basic front-end) created using ExpressJS, MongoDB and HTML, CSS via EJS:
+     A Social Web App project created using ExpressJS, MongoDB and HTML, CSS via EJS:
      <ul>
        <li>
          Learnt the structure and internal interactions of an end-to-end web app.
@@ -104,7 +104,7 @@ Experienced in
    </div>
    
    <div>
-   <a href="https://github.com/hemantsharma1498/Imagology">Social Web App</a>
+   <a href="https://github.com/hemantsharma1498/Imagology">Imagology</a>
    <br>
        <p>
      A blogging service made with NodeJS:
@@ -142,7 +142,7 @@ Email me:
   </h2>
 <p>
 hemantsharma1498@gmail.com
-</p>
+</p>https://github.com/hemantsharma1498/hemantsharma1498/edit/main/README.md
 
 </div>
 
