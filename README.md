@@ -48,36 +48,17 @@ Experienced in
 
 <div>
   <h2>
-    Ongoing Project
+    Currently learning:
     </h2>
   <p>
-    A scalable Image hosting website, similar to  Imgur and Flickr. <br>
-    Currently working building a scalable image upload facility to the blogging service.
-    
-   <!---
-    <ul>
-      <li>
-        Creating a query cacheing layer.
-        </li>
-      <li>
-        Clustering and learning to monitor cluster health using PM2.
-        </li>
-      <li>
-        Benchmarking server performance and refactoring.
-        </li>
-      <li>
-        Using worker threads.
-        </li>
-      </ul>
-      
-      --->
-  </p>
-  
+   Software design patterns (strategy pattern, observer pattern, etc).
+
+  </p>  
   </div>
 
 <div>
   <h2>
-    Previous Projects
+    Projects
     </h2>
    <div>
      <a href="https://github.com/hemantsharma1498/Heartbeat-Monitor/">Heartbeat-Monitor</a>
@@ -117,6 +98,28 @@ Experienced in
          </li>    
        <li>
          Deployed app on AWS EC2.
+         </li>        
+       </ul>
+     </p>
+   </div>
+   
+    <div>
+   <a href="https://github.com/hemantsharma1498/Social-Web-App">Social Web App</a>
+   <br>
+       <p>
+     A blogging service made with NodeJS:
+     <ul>
+       <li>
+         Learnt the internals of NodeJS, how it delegates work to V8 and libuv. Learnt how to create child processes and prevent performance degredation because of blocking code by handing off work to worker threads.
+         </li>
+       <li>
+         Created a MongoDB query cacheing layer using Redis.
+         </li>
+       <li>
+         Created a testing suite using Puppeteer and Jest. Used Travis CI for continuous testing.
+         </li>    
+       <li>
+         Added a scalable image uploading facility by utilising AWS S3.
          </li>        
        </ul>
      </p>
