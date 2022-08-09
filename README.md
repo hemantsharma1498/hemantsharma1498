@@ -52,8 +52,14 @@ Experienced in
     </h2>
   <p>
    Software design patterns (strategy pattern, observer pattern, etc).
-
-  </p>  
+    </p>  
+   <h3>
+    Social Web app:
+    <h3/>
+  <p>
+    Currently learning ReactJS to create a smooth UI interface in place of an HTML-CSS based front-end.
+    </p>  
+   
   </div>
 
 <div>
