@@ -104,7 +104,7 @@ Experienced in
    </div>
    
     <div>
-   <a href="https://github.com/hemantsharma1498/Social-Web-App">Social Web App</a>
+   <a href="https://github.com/hemantsharma1498/Imagology">Social Web App</a>
    <br>
        <p>
      A blogging service made with NodeJS:
