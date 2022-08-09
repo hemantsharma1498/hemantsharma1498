@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a budding Software Engineer/Backend Developer.
+I'm a budding Software Engineer/Full Stack Developer.
 
 
 
