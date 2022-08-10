@@ -52,7 +52,16 @@ Experienced in
     </h2>
   <p>
    Software design patterns (strategy pattern, observer pattern, etc).
-    </p>  
+    </p>
+    System design concepts: 
+     <ul>
+      <li>
+        Back of envelope estimation.
+        </li>
+        <li>
+        Rate limiting.
+        </li>
+      </ul>
    <h3>
     Social Web app:
     </h3>
