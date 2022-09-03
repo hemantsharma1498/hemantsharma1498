@@ -62,9 +62,9 @@ Experienced in
         Rate limiting.
         </li>
       </ul>
-   <p>
-    A GraphQL vs REST api request-response time comparing server. Using ReactJS for the frontend.
-    </p>  
+   <div>
+    A GraphQL vs REST api request-response time comparing server. Using ReactJS for the client-side web app framework and Golang to create the REST and GraphQL APIs.
+    </div>  
    
   </div>
 
